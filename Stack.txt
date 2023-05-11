@@ -1,0 +1,14 @@
+-HTML
+-CSS
+-SCSS
+-Tailwind
+-JavaScript
+-TypeScript
+-Node.js
+-Next.js
+-Vite
+-Git
+-React
+-Jest
+-CI/CD Pipeline: Kubernets/Docker
+
