@@ -11,4 +11,6 @@
 -React
 -Jest
 -CI/CD Pipeline: Kubernets/Docker
+-Figma
+-NPM
 
