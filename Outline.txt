@@ -1,3 +1,4 @@
+Stack:
 -HTML
 -CSS
 -SCSS
@@ -13,4 +14,8 @@
 -CI/CD Pipeline: Kubernets/Docker
 -Figma
 -NPM
+CI/CD:
+-Using Github Actions
+-Kubernets/Docker
+-Hosted using AWS
 
